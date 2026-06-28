@@ -46,5 +46,5 @@ By downloading, installing, or using any ZeroTrace App, you acknowledge that you
 
 ---
 
-*Last updated: [DATE]*
+*Last updated: 28 June 2026*
 *This document is provided for informational purposes and does not constitute legal advice. Users in jurisdictions with specific consumer protection requirements should consult applicable local law.*
